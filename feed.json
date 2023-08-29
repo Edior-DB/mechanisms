@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ქიმიურ რეაქციათა მექანიზმები",
     "description": "",
-    "home_page_url": "https://edior-db.github.io/mechanisms",
-    "feed_url": "https://edior-db.github.io/mechanisms/feed.json",
+    "home_page_url": "https://mechanisms.delocalized.bond",
+    "feed_url": "https://mechanisms.delocalized.bond/feed.json",
     "user_comment": "",
     "author": {
         "name": "The Delocalized Bond"
     },
     "items": [
         {
-            "id": "https://edior-db.github.io/mechanisms/test.html",
-            "url": "https://edior-db.github.io/mechanisms/test.html",
+            "id": "https://mechanisms.delocalized.bond/test.html",
+            "url": "https://mechanisms.delocalized.bond/test.html",
             "title": "Test",
             "summary": "ეს მხოლოდ სატესტო სტატიაა...",
             "content_html": "\n    <h2 id=\"es-mxolod-satesto-statiaa\">\n      ეს მხოლოდ სატესტო სტატიაა...\n    </h2>",
