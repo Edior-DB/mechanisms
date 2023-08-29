@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ქიმიურ რეაქციათა მექანიზმები",
+    "description": "",
+    "home_page_url": "https://edior-db.github.io/mechanisms",
+    "feed_url": "https://edior-db.github.io/mechanisms/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Delocalized Bond"
+    },
+    "items": [
+        {
+            "id": "https://edior-db.github.io/mechanisms/test.html",
+            "url": "https://edior-db.github.io/mechanisms/test.html",
+            "title": "Test",
+            "summary": "ეს მხოლოდ სატესტო სტატიაა...",
+            "content_html": "\n    <h2 id=\"es-mxolod-satesto-statiaa\">\n      ეს მხოლოდ სატესტო სტატიაა...\n    </h2>",
+            "author": {
+                "name": "The Delocalized Bond"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-29T13:04:41+04:00",
+            "date_modified": "2023-08-29T13:04:41+04:00"
+        }
+    ]
+}

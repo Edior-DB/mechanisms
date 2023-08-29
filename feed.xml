@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ქიმიურ რეაქციათა მექანიზმები</title>
+    <link href="https://edior-db.github.io/mechanisms/feed.xml" rel="self" />
+    <link href="https://edior-db.github.io/mechanisms" />
+    <updated>2023-08-29T13:04:41+04:00</updated>
+    <author>
+        <name>The Delocalized Bond</name>
+    </author>
+    <id>https://edior-db.github.io/mechanisms</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>The Delocalized Bond</name>
+        </author>
+        <link href="https://edior-db.github.io/mechanisms/test.html"/>
+        <id>https://edior-db.github.io/mechanisms/test.html</id>
+
+        <updated>2023-08-29T13:04:41+04:00</updated>
+            <summary>
+                <![CDATA[
+                    ეს მხოლოდ სატესტო სტატიაა...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="es-mxolod-satesto-statiaa">
+      ეს მხოლოდ სატესტო სტატიაა...
+    </h2>
+            ]]>
+        </content>
+    </entry>
+</feed>
